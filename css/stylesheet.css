@@ -36,3 +36,12 @@
   -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
   box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
 }
+
+#page2 {
+	display: none;
+}
+
+.smallMargin {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
